@@ -66,16 +66,7 @@ define("text!hub/core/directives/toolbar/base-toolbar.ng.html",
   ]
 }
 ```
-
 --------------------------------------------------------------------------------
-
-## Author
-
-Alexander Torngren - [LinkedIn]
-
-![Git License][git-license]
-
------------------------------------
 
 ## Upcomming Tasks
 
@@ -84,6 +75,12 @@ Alexander Torngren - [LinkedIn]
 ## Contribute
 
 ![Fork the repo][fork]
+
+## Authors
+
+Alexander Torngren - [LinkedIn]
+
+![Git License][git-license]
 
 [fork]: https://img.shields.io/badge/Fork-Contribute!-blue?logo=github&style=social&link=/fork&link=/fork
 
