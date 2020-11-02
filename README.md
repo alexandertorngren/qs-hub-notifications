@@ -79,7 +79,7 @@ Alexander Torngren - [LinkedIn]
 
 ![Git License][git-license]
 
-[fork]: https://img.shields.io/badge/Fork-Contribute!-blue?logo=github&style=social&link=/fork&link=/fork
+[fork]: https://img.shields.io/badge/Fork-Contribute!-blue?logo=github&style=social&link=https://github.com/alexandertorngren/qs-hub-notifications/fork
 
 [git-license]: https://img.shields.io/github/license/alexandertorngren/qs-hub-notifications?style=flat-square
 [git-release]: https://img.shields.io/github/v/release/alexandertorngren/qs-hub-notifications?include_prereleases&style=flat-square
