@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Markdown lint in VS Code
+.markdownlint.json
