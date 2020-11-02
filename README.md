@@ -8,7 +8,7 @@
 
 Module to display notifications in Qlik Sense hub.
 
-![Git Release][git-release] ![Git Language][git-lang] | ![Docker Version][docker-version] ![Docker Build Status][docker-build]
+![Git Release][git-release] ![Git Language][git-lang] ![Docker Version][docker-version] ![Docker Build Status][docker-build]
 
 --------------------------------------------------------------------------------
 
