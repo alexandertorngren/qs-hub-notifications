@@ -87,12 +87,12 @@ Alexander Torngren - [LinkedIn]
 
 [fork]: https://img.shields.io/badge/Fork-Contribute!-blue?logo=github&style=social&link=/fork&link=/fork
 
-[git-license]: https://img.shields.io/github/license/alexandertorngren/qs-notification-module?style=flat-square
-[git-release]: https://img.shields.io/github/v/release/alexandertorngren/qs-notification-module?include_prereleases&style=flat-square
-[git-lang]: https://img.shields.io/github/languages/top/alexandertorngren/qs-notification-module?style=flat-square
+[git-license]: https://img.shields.io/github/license/alexandertorngren/qs-hub-notifications?style=flat-square
+[git-release]: https://img.shields.io/github/v/release/alexandertorngren/qs-hub-notifications?include_prereleases&style=flat-square
+[git-lang]: https://img.shields.io/github/languages/top/alexandertorngren/qs-hub-notifications?style=flat-square
 
-[docker-build]: https://img.shields.io/docker/build/alexandertorngren/notification-backend?style=flat-square
-[docker-version]: https://img.shields.io/docker/v/alexandertorngren/notification-backend?style=flat-square
+[docker-build]: https://img.shields.io/docker/build/alexandertorngren/qs-hub-backend?style=flat-square
+[docker-version]: https://img.shields.io/docker/v/alexandertorngren/qs-hub-backend?style=flat-square
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-say%20hi!-blue?style=social&logo=linkedin&link=https://linkedin.com/alexandertorngren
 [web]: https://qlikowl.com
