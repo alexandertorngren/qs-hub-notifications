@@ -1,0 +1,40 @@
+.hub-toolbar-notification {
+  background: rgb(11, 58, 36) !important;
+  color: white;
+  padding: 2px 10px;
+  display: flex;
+  align-items: center !important;
+}
+.hub-toolbar-notification > .toolbar-head {
+  display: flex;
+  align-items: center !important;
+  padding-right: 4px;
+}
+.hub-toolbar-notification > .toolbar-body {
+  display: flex;
+  align-items: center !important;
+}
+.hub-toolbar-notification > .toolbar-head > .toolbar-head-content {
+  max-height: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white !important;
+  font-size: inherit;
+  text-align: center;
+  padding: 0 4px;
+}
+.hub-toolbar-notification > .toolbar-head > .toolbar-head-symbol {
+  font-weight: bold;
+  font-size: inherit;
+  color: rgb(250, 130, 60) !important;
+}
+.hub-toolbar-notification > .toolbar-body > span {
+  font-weight: normal;
+  font-size: inherit;
+}
+.toolbar-head-content > img {
+  height: auto;
+  width: auto;
+  max-height: 30px;
+  object-fit: contain;
+}

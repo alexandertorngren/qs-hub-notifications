@@ -8,7 +8,7 @@
 
 Module to display notifications in Qlik Sense hub.
 
-![Git Release][git-release] ![Git Language][git-lang] ![Docker Version][docker-version] ![Docker Build Status][docker-build]
+![Git Release][git-release] ![Git License][git-license] ![Git Language][git-lang] ![Docker Version][docker-version] ![Docker Build Status][docker-build]
 
 ## Prepare for setup
 
@@ -71,15 +71,17 @@ define("text!hub/core/directives/toolbar/base-toolbar.ng.html",
 
 ## Contribute
 
-![Fork the repo][fork]
+[![Fork the repo][fork]][fork-url]
 
 ## Authors
 
-Alexander Torngren - [LinkedIn]
+Alexander Torngren
 
-![Git License][git-license]
+[![LinkedIn][linkedin]][linkedin-url]
 
-[fork]: https://img.shields.io/badge/Fork-Contribute!-blue?logo=github&style=social&link=https://github.com/alexandertorngren/qs-hub-notifications/fork
+
+[fork]: https://img.shields.io/badge/Fork-Contribute!-blue?logo=github&style=social
+[fork-url]: https://github.com/alexandertorngren/qs-hub-notifications/fork
 
 [git-license]: https://img.shields.io/github/license/alexandertorngren/qs-hub-notifications?style=flat-square
 [git-release]: https://img.shields.io/github/v/release/alexandertorngren/qs-hub-notifications?include_prereleases&style=flat-square
@@ -88,7 +90,8 @@ Alexander Torngren - [LinkedIn]
 [docker-build]: https://img.shields.io/docker/build/alexandertorngren/qs-hub-backend?style=flat-square
 [docker-version]: https://img.shields.io/docker/v/alexandertorngren/qs-hub-backend?style=flat-square
 
-[linkedin]: https://img.shields.io/badge/LinkedIn-say%20hi!-blue?style=social&logo=linkedin&link=https://linkedin.com/alexandertorngren
+[linkedin]: https://img.shields.io/badge/LinkedIn-say%20hi!-blue?style=social&logo=linkedin
+[linkedin-url]: https://linkedin.com/alexandertorngren
 [web]: https://qlikowl.com
 
 [company]: https://drakeanalytics.se
