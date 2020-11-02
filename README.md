@@ -10,8 +10,6 @@ Module to display notifications in Qlik Sense hub.
 
 ![Git Release][git-release] ![Git Language][git-lang] ![Docker Version][docker-version] ![Docker Build Status][docker-build]
 
---------------------------------------------------------------------------------
-
 ## Prepare for setup
 
 Make a full backup of the folder `%programfiles%/Qlik/Sense/Client/hub` containing all subfolders and files.
@@ -66,7 +64,6 @@ define("text!hub/core/directives/toolbar/base-toolbar.ng.html",
   ]
 }
 ```
---------------------------------------------------------------------------------
 
 ## Upcomming Tasks
 
