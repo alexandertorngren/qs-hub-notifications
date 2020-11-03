@@ -4,10 +4,9 @@
   "description": "Backend and repository for QS Hub Notifications",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index",
-    "dev": "nodemon src/index",
-    "test": "mocha",
-    "test-dev": "nodemon src/test/test"
+    "start": "node notification-backend/src/index",
+    "dev": "nodemon /notification-backendsrc/index",
+    "test": "mocha notification-backend/test"
   },
   "repository": {
     "type": "git",
