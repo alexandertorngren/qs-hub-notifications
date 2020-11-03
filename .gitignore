@@ -105,3 +105,6 @@ dist
 
 # Markdown lint in VS Code
 .markdownlint.json
+_*/
+*.pem
+*.pfx
