@@ -9,5 +9,3 @@ openssl req -config cert-options.conf -new -x509 -sha256 -newkey rsa:2048 -nodes
 Or run `./gen-cert.bat`
 
 --------------------------------------------------------------------------------
-
-**[alexandertorngren](https://github.com/alexandertorngren) / [qs-hub-notifications](../../../../README) / [notification-backend](../../../README) /** generate certificate

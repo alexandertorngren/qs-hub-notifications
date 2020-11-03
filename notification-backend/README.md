@@ -10,8 +10,6 @@ Module to display notifications in Qlik Sense hub.
 
 --------------------------------------------------------------------------------
 
-**[alexandertorngren](https://github.com/alexandertorngren) / [qs-hub-notifications](../README) /** notification-backend
-
 [company]: https://drakeanalytics.se
 [docker-build]: https://img.shields.io/docker/automated/alexandertorngren/qs-hub-notifications?style=flat-square
 [docker-version]: https://img.shields.io/docker/v/alexandertorngren/qs-hub-notifications?style=flat-square
