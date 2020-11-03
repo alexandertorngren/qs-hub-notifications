@@ -1,0 +1,34 @@
+{
+  "name": "notification-backend",
+  "version": "1.0.0",
+  "description": "Backend and repository for QS Hub Notifications",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index",
+    "test": "mocha",
+    "test-dev": "nodemon src/test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandertorngren/qs-hub-notifications.git"
+  },
+  "keywords": [
+    "QS"
+  ],
+  "author": "Alexander Torngren",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.11",
+    "node-fqdn": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "nodemon": "^2.0.6"
+  }
+}

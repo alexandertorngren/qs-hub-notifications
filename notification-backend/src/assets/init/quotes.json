@@ -1,0 +1,24 @@
+{
+  "quotes": [
+    {
+      "quote": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman"
+    },
+    {
+      "quote": "In order to be irreplaceable, one must always be different.",
+      "author": "Coco Chanel"
+    },
+    {
+      "quote": "Experience is the name everyone gives to their mistakes.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    }
+  ]
+}
