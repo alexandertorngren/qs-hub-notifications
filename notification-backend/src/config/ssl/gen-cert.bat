@@ -1,1 +1,0 @@
-openssl req -config cert-options.conf -new -x509 -sha256 -newkey rsa:2048 -nodes -keyout key.pem -days 365 -out server.pem
